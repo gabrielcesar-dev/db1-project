@@ -125,7 +125,7 @@ This file includes scripts for common database operations and queries.
 
    ```bash
    git clone https://github.com/gabrielcesar-dev/bd1-project.git
-   cd your-repo-name
+   cd bd1-project
    ```
 
 2. **Set up the database:**
